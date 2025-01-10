@@ -1,0 +1,2 @@
+# tratando_dados_de_telecomunicacao.ipynb
+tratando_dados_de_telecomunicacao.ipynb
